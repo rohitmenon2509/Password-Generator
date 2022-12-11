@@ -1,1 +1,3 @@
-# Password-Generator
+# Password-Generator _2509 inc
+HEY Wassup there! Its 2509.... 
+This code helps u to randomly pick out the best password for your social accounts . 
